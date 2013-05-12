@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="JiyoBefikar">
+		<name >
+			BajajAllianz
+		</name>
+		<description >
+			
+		</description>
+		<version >
+			1.04
+		</version>
+		<vendor >
+			Bajaj Allianz
+		</vendor>
+		<copyright >
+			Copyright (c) 2013 Bajaj Allianz
+		</copyright>
+		<fileset Java="1.55" _blackberryVersion="[7.1.0)">
+			<directory >
+				7.1.0
+			</directory>
+			<files >
+				JiyoBefikar.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>

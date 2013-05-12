@@ -1,0 +1,30 @@
+MIDlet-Name: JiyoBefikar
+MIDlet-Version: 1.04
+MIDlet-Vendor: Bajaj Allianz
+MIDlet-Jar-URL: JiyoBefikar.jar
+MIDlet-Jar-Size: 449872
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: BajajAllianz,img/icon.png,
+RIM-MIDlet-Flags-1: 0
+MIDlet-2: BackgroundService,,Bajaj
+RIM-MIDlet-Flags-2: 3
+Manifest-Version: 1.0
+RIM-COD-URL: JiyoBefikar.cod
+RIM-COD-Size: 38496
+RIM-COD-Creation-Time: 1368324244
+RIM-COD-Module-Name: JiyoBefikar
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_browser,net_rim_bbapi_messagelist,net_rim_ui_api,net_rim_os
+RIM-COD-SHA1: 21 32 85 82 72 ca ac 98 23 d3 4b 67 e6 84 8f 54 5e 70 4d 7b
+RIM-COD-URL-1: JiyoBefikar-1.cod
+RIM-COD-Size-1: 46588
+RIM-COD-SHA1-1: df b5 ee d4 02 42 3f 92 12 1c a4 64 d0 6b 50 c5 b4 c2 75 0b
+RIM-COD-URL-2: JiyoBefikar-2.cod
+RIM-COD-Size-2: 60444
+RIM-COD-SHA1-2: 57 83 f2 21 0c 0c f0 c1 62 3a 3e 81 5b f0 19 29 9d a1 9c 96
+RIM-COD-URL-3: JiyoBefikar-3.cod
+RIM-COD-Size-3: 61872
+RIM-COD-SHA1-3: 9c 36 6e b7 07 b3 89 68 7e 36 39 19 24 88 f4 94 07 03 fe 01
+RIM-COD-URL-4: JiyoBefikar-4.cod
+RIM-COD-Size-4: 43952
+RIM-COD-SHA1-4: 9e d8 de d2 9a b6 7c 0c 9c b5 d4 cb 45 6f fa 4c b5 d5 60 f4
